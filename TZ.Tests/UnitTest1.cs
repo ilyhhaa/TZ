@@ -3,7 +3,7 @@ using System.Drawing;
 
 namespace TZ.Tests
 {
-    public class RectangleUtTests
+    public class RectangleUtTests 
     {
         [Fact]
         public void TestBoundingRectangle_AllRectangles()
